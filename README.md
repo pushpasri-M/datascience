@@ -40,7 +40,7 @@ A pie chart represents data as a circular graph divided into slices, with each s
 
 A stacked plot is similar to a bar chart, but it stacks bars on top of each other to show the composition of each category in relation to the total. It's used for comparing categories while also displaying their composition.
 
-#Table
+# Table
 A table is a simple grid-based representation of data, often used to display raw data values or summary statistics in a structured format.
 
 # Histogram
